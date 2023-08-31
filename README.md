@@ -4,12 +4,12 @@
 
 This case study is conducted in partial fulfilment of the requirements of the 
 DTI x Coursera Google Data Analytics course.
-Data Analyst: Rosamia Tubo
-Company Details1
+
+
+## About the company ^[1]
 Cofounder and Chief Creative Officer: Urška Sršen
 Mathematician and Bellabeat’s cofounder: Sando Mur
 
-## About the company
 Urška Sršen and Sando Mur founded Bellabeat, a high-tech company that manufactures health-focused smart products. Sršen used her background as an artist to develop beautifully designed technology that informs and inspires women around the world. Collecting data on activity, sleep, stress, and reproductive health has allowed Bellabeat to empower women with knowledge about their own health and habits. Since it was founded in 2013, Bellabeat has grown rapidly and quickly positioned itself as a tech-driven wellness company for women.
 
 By 2016, Bellabeat had opened offices around the world and launched multiple products. Bellabeat products became available through a growing number of online retailers in addition to their own e-commerce channel on their website. The company has invested in traditional advertising media, such as radio, out-of-home billboards, print, and television, but focuses
