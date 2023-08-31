@@ -58,8 +58,15 @@ Apart from the lack of gender identification of the respondents (it affects the 
 The analyst browsed on the data sets and found some null values - these were excluded in the succeeding analyses. All the other values are logical per the metric measured. Date formatting differences were also resolved during cleaning thus the tables used have common date formats.
 
 ## IV. Analysis and Visualizations
+
+### Summary
+<img width="514" alt="summary1" src="https://github.com/SamiaDT/Bellabeat_Case_Study/assets/86813276/1a07c9e5-be2e-4535-865d-9d2bc525efd0">
+<img width="576" alt="summary2" src="https://github.com/SamiaDT/Bellabeat_Case_Study/assets/86813276/7d4cdcd4-625d-4b2d-b7cd-731432301163">
+<img width="519" alt="summary3" src="https://github.com/SamiaDT/Bellabeat_Case_Study/assets/86813276/58b1fab2-d2ca-454d-ac08-f14a668251d2">
+
+
 ### Activity intensity
-Summary
+
 Histogram of Activity intensity vs. Hour
 
 
