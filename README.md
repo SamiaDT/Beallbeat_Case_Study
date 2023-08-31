@@ -56,8 +56,10 @@ Formatting coherency of the data on the tables were ensured. To allow data mergi
 Null or error values were dropped in plotting and measuring the mean and median.
 
 ### Data integrity
-Apart from the lack of gender identification of the respondents, which affects the BMI reference, which disallowed ranking of BMI values from highest to lowest, there were only 8 participants who participated in the weight data collection. Due to this low number of samples, which is insignificant compared to the whole population, the data cannot be treated as the reflection of all Bellabeat device users.
-Data verification
+Apart from the lack of gender identification of the respondents (it affects the BMI reference), there were only 8 participants who participated in the weight data collection. This low number of samples, that can be considered insignificant compared to the whole population, the data cannot be treated as the reflection of all Bellabeat device users.
+
+### Data verification
+The analyst browsed on the data sets and found some null values - these were excluded in the succeeding analyses. All the other values are logical per the metric measured. Date formatting differences were also resolved during cleaning thus the tables used have common date formats.
 
 ## IV. Analysis and Visualizations
 ### Activity intensity
