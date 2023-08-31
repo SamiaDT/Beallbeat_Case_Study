@@ -7,8 +7,8 @@ DTI x Coursera Google Data Analytics course.
 
 
 ## About the company <sup>[1]<sup>
-Cofounder and Chief Creative Officer: Urška Sršen
-Mathematician and Bellabeat’s cofounder: Sando Mur
+Cofounder and Chief Creative Officer: Urška Sršen <br>
+Mathematician and Bellabeat’s cofounder: Sando Mur<br>
 
 Urška Sršen and Sando Mur founded Bellabeat, a high-tech company that manufactures health-focused smart products. Sršen used her background as an artist to develop beautifully designed technology that informs and inspires women around the world. Collecting data on activity, sleep, stress, and reproductive health has allowed Bellabeat to empower women with knowledge about their own health and habits. Since it was founded in 2013, Bellabeat has grown rapidly and quickly positioned itself as a tech-driven wellness company for women.
 
