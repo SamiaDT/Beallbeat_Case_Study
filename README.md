@@ -45,7 +45,7 @@ Compared to the overall number of Bellabeat users, a sample of thirty cannot rep
 
 ## III. Process
 ### Data tools
-R was used in the analysis due to its capability to process big data and create various types of graphical illustrations that are effective for the visualization.
+R was used in the analysis due to its capability to process big data and create various types of graphical illustrations that are effective for the visualization. The data set is composed of rows and columns that are more than what Google Sheets can handle.
 
 ### Data cleaning
 Formatting coherency of the data on the tables were ensured. To allow data merging, the columns with date-time format were split to two columns.
