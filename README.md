@@ -6,7 +6,7 @@ This case study is conducted in partial fulfilment of the requirements of the
 DTI x Coursera Google Data Analytics course.
 
 
-## About the company ^[1]
+## About the company ~[1]~
 Cofounder and Chief Creative Officer: Urška Sršen
 Mathematician and Bellabeat’s cofounder: Sando Mur
 
