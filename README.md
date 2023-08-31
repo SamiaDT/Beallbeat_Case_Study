@@ -1,12 +1,8 @@
-# Beallbeat Case Study
+# Case Study: How Can a Wellness Technology Company Play It Smart?
 *This case study is conducted in partial fulfilment of the requirements of the  DTI x Coursera Google Data Analytics course.*
-## Case Study: How Can a Wellness Technology Company Play It Smart?
-
-This case study is conducted in partial fulfilment of the requirements of the 
-DTI x Coursera Google Data Analytics course.
-
 
 ## About the company <sup>[1]<sup>
+Company name: Bellabeat 
 Cofounder and Chief Creative Officer: Urška Sršen <br>
 Mathematician and Bellabeat’s cofounder: Sando Mur<br>
 
