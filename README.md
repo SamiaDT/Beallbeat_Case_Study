@@ -1,4 +1,4 @@
-# Beallbeat_Case_Study
+# Beallbeat Case Study
 *This case study is conducted in partial fulfilment of the requirements of the  DTI x Coursera Google Data Analytics course.*
 ## Case Study: How Can a Wellness Technology Company Play It Smart?
 
